@@ -1,6 +1,6 @@
 # MVP Sprint Machine Learning - 2026
 
-O repositório tem como objetivo o armazenamento dos datasets e notebook do Google Collab utilizados para o MVP da disciplina de Machine Learning & Analytics.
+O repositório tem como objetivo o armazenamento do dataset e notebook do Google Collab utilizados para o MVP da disciplina de Machine Learning & Analytics.
 
 Conteúdo:
 
